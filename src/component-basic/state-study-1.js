@@ -14,4 +14,4 @@ function Counter(props){
     )
 }
 
-root.render(<Counter />)
+root.render(<Counter/>)

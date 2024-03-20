@@ -1,2 +1,3 @@
 //import './component-basic/props-children'
-import './component-basic/state-study-1'
+//import './component-basic/state-study-3'
+import './component-basic/quiz2'
