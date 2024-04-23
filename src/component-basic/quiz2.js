@@ -6,7 +6,7 @@ const root = ReactDOM.createRoot(document.getElementById("root"))
 function SlotMachine ({s1,s2,s3}){
     let congratz = null
     // if (s1 === s2 && s2 === s3) {
-    //     congratz = "Congratz!"
+    //     congratz = "Congratz!"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
     // }
     const highlight = (s1 === "7" && s2 === "7" && s3 === "7")
     return(
